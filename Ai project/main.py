@@ -12,7 +12,7 @@ import re
 # Initialize colorama
 init()
 
-API = "AIzaSyDyQo4LSIh2ojxQDB82KBe7ZW_KPVXT9k4"
+API = ""
 
 external_cliet = AsyncOpenAI(
     api_key=API,
